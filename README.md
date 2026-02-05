@@ -6,8 +6,8 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Javciier&color=blueviolet&style=flat-square)
-  ![GitHub followers](https://img.shields.io/github/followers/Javciier?style=social)
+  ![Profile Views](https://komarev.com/ghpvc/?username=j-ruedar&color=blueviolet&style=flat-square)
+  ![GitHub followers](https://img.shields.io/github/followers/j-rueda?style=social)
   
 </div>
 
