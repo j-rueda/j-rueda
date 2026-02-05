@@ -17,7 +17,7 @@
   
   ### 🚀 **Javy Daniel Rueda de León Hernández**
   
-  **Software Development Engineer** | **Backend Engineer at Rocket Code**
+  **Software Development Engineer** | **Senior Software Engineer at Coppel**
   
   *Backend Java Specialist • Scalable Solutions Developer • Self-taught by nature*
   
@@ -77,7 +77,7 @@
 
 ## 🎯 Currently
 
-- 🔭 **Working on:** Backend Engineer at **Rocket Code** - Automotive insurance sector
+- 🔭 **Working on:** Senior Software Engineerr at **Coppel**
 - 🌱 **Learning:** Mobile development and advanced microservices architectures
 - 💡 **Specialization:** Backend Java, Spring Framework, and microservices architecture
 - 📚 **Experience:** 3+ years developing robust and scalable solutions
